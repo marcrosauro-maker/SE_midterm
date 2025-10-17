@@ -1,2 +1,6 @@
 # SE_midterm
 exam
+name: MArc ROSAURO
+SECTION AND COURSE: BSCS CS31
+subject: SOFTWARE ENGINEERING
+
